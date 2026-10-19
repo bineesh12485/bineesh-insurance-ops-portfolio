@@ -3,7 +3,7 @@ export const profile = {
   name: "Bineesh P B",
   title: "Senior Insurance Operations Specialist",
   positioning:
-    "Policy administration, underwriting support, claims coordination and MIS & analytics across Motor, Health and Commercial lines.",
+    "Team Management, Policy administration, underwriting support, claims coordination and MIS & analytics across Motor, Health and Commercial lines.",
   facts: "12+ years in general insurance and 16+ years overall across finance and operations.",
   location: "Kerala, India",
   email: "bineeshbabup@gmail.com",
@@ -12,8 +12,8 @@ export const profile = {
   cv: "/Bineesh_P_B_CV.pdf",
   openTo: "Open to Senior Operations and Operations Manager roles in general insurance, pan-India.",
   about: [
-    "Senior general insurance professional with over 12 years in the insurance industry and 16+ years of overall experience across finance and operations. I specialise in end-to-end policy lifecycle management, underwriting support, claims coordination, premium accounting, commission reconciliation and renewal retention strategy.",
-    "My strengths are financial controls, intermediary management, MIS design and LOB performance monitoring. I streamline operational workflows, improve reporting accuracy and support data-driven decision-making.",
+    "Senior general insurance professional with over 12 years in the insurance industry and 16+ years of overall experience across finance and operations. I lead the operations and claims team, with expertise in end-to-end policy lifecycle management, underwriting support, claims coordination, premium accounting, commission reconciliation and renewal retention strategy.",
+    "My strengths are team leadership, financial controls, intermediary management, MIS design and LOB performance monitoring. I streamline operational workflows, improve reporting accuracy and support data-driven decision-making, while keeping documentation accuracy, compliance standards and service quality high.",
     "I work closely with underwriting, finance, sales and operations teams to drive process efficiency and business performance.",
   ],
 };
