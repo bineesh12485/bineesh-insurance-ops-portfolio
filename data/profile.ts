@@ -1,10 +1,10 @@
 // Edit this file to update the whole site. All content comes from the CV and LinkedIn profile.
 export const profile = {
   name: "Bineesh P B",
-  title: "Operations Manager, General Insurance",
+  title: "Senior Insurance Operations Specialist",
   positioning:
-    "I run the parts of insurance operations that decide whether a business actually works: policy issuance, underwriting coordination, claims servicing, premium reconciliation and commission settlement.",
-  facts: "16 years in operations and finance, 12 in general insurance, on both the insurer and broking side.",
+    "Policy administration, underwriting support, claims coordination and MIS & analytics across Motor, Health and Commercial lines.",
+  facts: "12+ years in general insurance and 16+ years overall across finance and operations.",
   location: "Kerala, India",
   email: "bineeshbabup@gmail.com",
   phone: "9946255036",
@@ -12,9 +12,9 @@ export const profile = {
   cv: "/Bineesh_P_B_CV.pdf",
   openTo: "Open to Senior Operations and Operations Manager roles in general insurance, pan-India.",
   about: [
-    "I have worked across Motor, Health, Commercial and Employee Benefit lines at Digit Insurance, Bajaj Allianz, Vizza Insurance Broking and now Everguard.",
-    "Beyond running the process, I design the reporting that runs it: MIS dashboards that senior leadership used for line-of-business and budget decisions. I have also managed the intermediary side directly, including onboarding, credit management and risk exposure.",
-    "I started in accounts, which is why premium accounting, reconciliation and audit compliance are second nature to me.",
+    "Senior general insurance professional with over 12 years in the insurance industry and 16+ years of overall experience across finance and operations. I specialise in end-to-end policy lifecycle management, underwriting support, claims coordination, premium accounting, commission reconciliation and renewal retention strategy.",
+    "My strengths are financial controls, intermediary management, MIS design and LOB performance monitoring. I streamline operational workflows, improve reporting accuracy and support data-driven decision-making.",
+    "I work closely with underwriting, finance, sales and operations teams to drive process efficiency and business performance.",
   ],
 };
 
@@ -68,7 +68,7 @@ export const experience = [
     points: [
       "Moved with the leadership, sales, operations and finance teams to the newly formed broking entity, keeping business running across India.",
       "Manage underwriting coordination, policy lifecycle, claims servicing and financial reconciliation for the same client portfolio.",
-      "Lead a team of 7 handling policy issuance operations.",
+      "Lead a team of Lead the team handling policy issuance and claims operations.7 handling policy issuance operations.",
     ],
   },
   {
@@ -81,7 +81,7 @@ export const experience = [
     ],
   },
   {
-    company: "Digit Insurance", role: "Senior Associate to Deputy Manager, Insurance Operations", period: "Apr 2019 to Apr 2024", place: "Kochi",
+    company: "Digit Insurance", role: "Operations Manager", period: "Apr 2019 to Apr 2024", place: "Kochi",
     points: [
       "Primary business contact for product, underwriting and operational queries from intermediaries and internal teams.",
       "Onboarded and trained intermediaries, and managed credit and risk exposure as the link between Head Office and intermediaries.",
