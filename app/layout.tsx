@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "Insurance Operations Manager with 16 years in operations and finance, 12 in general insurance. Policy lifecycle, underwriting support, MIS and claims coordination.",
 };
 
-const themeScript = `try{var t=localStorage.getItem('theme');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}`;
+const themeScript = `try{history.scrollRestoration='manual';var t=localStorage.getItem('theme');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
