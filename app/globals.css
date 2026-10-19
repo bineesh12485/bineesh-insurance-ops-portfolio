@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 244 247 249; --surface: 255 255 255; --ink: 20 33 61; --muted: 86 99 120;
+  --line: 214 222 230; --accent: 15 107 122; --stamp: 190 90 20;
+}
+.dark {
+  --bg: 11 18 32; --surface: 17 27 46; --ink: 232 237 245; --muted: 150 163 184;
+  --line: 36 49 74; --accent: 94 190 204; --stamp: 240 150 80;
+}
+html { scroll-behavior: smooth; }
+body { @apply bg-bg text-ink font-sans antialiased; }
+:focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 3px; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.rise { animation: rise .6s ease-out both; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .rise { animation: none; }
+  * { transition-duration: 0s !important; }
+}
