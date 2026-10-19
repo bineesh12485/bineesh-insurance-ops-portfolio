@@ -68,7 +68,7 @@ export const experience = [
     points: [
       "Moved with the leadership, sales, operations and finance teams to the newly formed broking entity, keeping business running across India.",
       "Manage underwriting coordination, policy lifecycle, claims servicing and financial reconciliation for the same client portfolio.",
-      "Lead a team of Lead the team handling policy issuance and claims operations.7 handling policy issuance operations.",
+      "Lead a team of Lead the team handling policy issuance and claims operations.",
     ],
   },
   {
